@@ -1,0 +1,16 @@
+//Dora Maribel de Leon Ayala
+//uso de while
+#include <iostream> //libreria
+using namespace std;
+int main () {int numero;
+cout<< "Ingrese un numero";
+cin>> numero;
+while (numero <=100)
+{
+    cout<< "Ingrese un numero";
+    cin>> numero;
+}
+return 0;
+
+}
+
